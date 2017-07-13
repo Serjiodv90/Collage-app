@@ -26,8 +26,8 @@ namespace Collage
         {
             InitializeComponent();
             
-            MyStackPanel sp = new MyStackPanel();
-            MyStackPanel.Children.Add(sp);
+            MyDockPanel sp = new MyDockPanel();
+            MyDockPanel.Children.Add(sp);
             
         }
 
